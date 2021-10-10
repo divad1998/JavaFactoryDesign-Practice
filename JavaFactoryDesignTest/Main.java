@@ -1,6 +1,6 @@
 package JavaFactoryDesignTest;
 
-public class Caller {
+public class Main {
 
     public static void main(String[] args) {
     
